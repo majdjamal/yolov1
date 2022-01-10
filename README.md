@@ -1,8 +1,11 @@
-# yolov1
+# You Only Look Once Version 1
 
 YoloV1 implemented and trained from scratch using Tensorflow 2.0.
 
-https://drive.google.com/file/d/1-2pqSLrakkt6-WlctZtvZhS9W3jvnjhF/view?usp=sharing
+## Result
+![ Alt text](data/pred.gif)
+
+(Figure 1. Predicting Jürgen Klopp in a Press Conference with YoloV1. Comment: the predictions were good, considering that the network was trained from scratch, i.e., randomly initialized weights.)
 
 ## Test the program
 * Download [weights](https://drive.google.com/file/d/1-2pqSLrakkt6-WlctZtvZhS9W3jvnjhF/view?usp=sharing) and place the .h5 file in data/checkpoints/
