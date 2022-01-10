@@ -30,6 +30,3 @@ if __name__ == "__main__":
         Detect(yolo)
 
 
-
-    #if params.predict:
-    #    continue
